@@ -20,4 +20,19 @@ Exploratory data analysis of problem behaviour in autistic children based on dai
 - `notebooks/` – EDA notebooks
 - `reports/` – written summaries
 - `figures/` – saved plots
+- `reports/` – written summaries
 - `src/` – helper functions (if needed later)
+
+## Environment Setup
+
+1. **Activate the virtual environment**:
+   ```bash
+   source .venv/bin/activate
+   ```
+2. **Install dependencies** (if not already done):
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Select the Kernel in Jupyter**:
+   - Open `notebooks/01_eda_behavior.ipynb`.
+   - Select the kernel **"Python (ABA Behavior EDA)"** to ensure all libraries are available.
