@@ -1,11 +1,11 @@
-# ABA Behavior EDA
+# ABA behaviour EDA
 
-Exploratory data analysis of problem behavior in autistic children based on daily factors such as sleep, noise, routine changes, and setting.
+Exploratory data analysis of problem behaviour in children with Autism Spectrum Disorder (ASD) based on daily factors such as sleep, noise, routine changes, and setting.
 
 ## Objective
 
-- Explore patterns in when problem behavior occurs.
-- Visualize relationships between environmental/contextual variables and behavior.
+- Explore patterns in when problem behaviour occurs.
+- Visualize relationships between environmental/contextual variables and behaviour.
 - Practice clean, reproducible EDA in a well-structured project.
 
 ## Tech Stack
@@ -34,5 +34,5 @@ Exploratory data analysis of problem behavior in autistic children based on dail
    pip install -r requirements.txt
    ```
 3. **Select the Kernel in Jupyter**:
-   - Open `notebooks/01_eda_behavior.ipynb`.
+   - Open `notebooks/01_eda_behaviour.ipynb`.
    - Select the kernel **"Python (ABA Behaviour EDA)"** to ensure all libraries are available.
