@@ -1,0 +1,61 @@
+client_id,age_at_intake,age_band,gender,primary_language,diagnosis,medication_status,communication_type,communication_level,adaptive_functioning_level,social_functioning_level,school_status,therapy_setting_primary,reported_sleep_issues,reported_dietary_concerns,primary_behaviour_topographies,reported_behaviour_severity,known_triggers_reported,preferred_reinforcers
+1000,4,3-5,Male,Mandarin,ASD + ADHD,None,Gestural / Emerging,Phrases,Moderate support,Emerging,Mainstream,Clinic,No,No,Tantrum; Elopement,Moderate,Transitions,Social praise
+1001,12,12-14,Male,Punjabi,ASD + ADHD,Active medication,Vocal,Sentences,Lower support,Developing,Mainstream,Home,Yes,Yes,Tantrum; Aggression,Severe,Unclear / mixed,Screens / Videos
+1002,13,12-14,Male,English,ASD,None,Vocal,Phrases,Moderate support,More independent,Specialized classroom,Clinic,No,No,Self-Injury,Moderate,Demands; Transitions,Toys / Tangibles
+1003,7,6-8,Male,English,ASD + Anxiety,Active medication,AAC,Phrases,Moderate support,Developing,Not school-aged,Clinic,No,No,Property Destruction,Severe,Demands; Transitions,Social praise
+1004,4,3-5,Male,English,ASD,None,Vocal,Sentences,High support,Emerging,Mainstream,Clinic,No,No,Tantrum; Elopement,Moderate,Denied access,Mixed
+1005,9,9-11,Male,English,ASD,Active medication,Vocal,Single words,Moderate support,Emerging,Specialized classroom,Home,No,No,Tantrum; Aggression,Moderate,Demands,Toys / Tangibles
+1006,7,6-8,Female,Urdu,ASD,Medication under review,PECS,Phrases,Moderate support,Emerging,Not school-aged,Hybrid,No,Yes,Aggression,Moderate,Transitions,Mixed
+1007,14,12-14,Female,Arabic,ASD,Active medication,AAC,Phrases,High support,Developing,Not school-aged,Home,Yes,Yes,Tantrum,Moderate,Transitions,Mixed
+1008,14,12-14,Male,French,ASD,Medication under review,Vocal,Sentences,High support,Developing,Mainstream,Hybrid,No,No,Aggression,Moderate,Sensory overload,Screens / Videos
+1009,9,9-11,Male,Punjabi,ASD + Global Developmental Delay,None,Vocal,Single words,Moderate support,Emerging,Specialized classroom,School-based,No,Yes,Aggression; Self-Injury,Moderate,Demands,Social praise
+1010,9,9-11,Female,Punjabi,ASD,Medication under review,Vocal,Phrases,High support,More independent,Not school-aged,Clinic,No,No,Tantrum; Elopement,Severe,Unclear / mixed,Mixed
+1011,7,6-8,Male,English,ASD + Anxiety,Active medication,Vocal,Single words,Moderate support,Emerging,Homeschooled / Other,Clinic,Yes,No,Tantrum,Mild,Sensory overload,Mixed
+1012,3,3-5,Male,Arabic,ASD + Other,None,Vocal,Single words,High support,Emerging,Specialized classroom,Clinic,No,No,Property Destruction,Mild,Denied access; Transitions,Breaks / Escape
+1013,5,3-5,Female,English,ASD,Medication under review,Vocal,Phrases,Moderate support,Developing,Homeschooled / Other,Clinic,No,Yes,Property Destruction,Moderate,Demands,Toys / Tangibles
+1014,11,9-11,Female,French,ASD + Other,Active medication,Vocal,Sentences,High support,Emerging,Specialized classroom,Hybrid,Yes,No,Tantrum; Aggression,Severe,Demands; Transitions,Screens / Videos
+1015,8,6-8,Male,English,ASD + ADHD,Active medication,Vocal,Single words,High support,Developing,Specialized classroom,Clinic,Yes,No,Tantrum,Severe,Denied access,Toys / Tangibles
+1016,13,12-14,Male,English,ASD,None,Vocal,Single words,High support,Emerging,Specialized classroom,School-based,No,No,Elopement,Severe,Denied access; Transitions,Edibles
+1017,14,12-14,Male,English,ASD,None,Vocal,Single words,Moderate support,Developing,Not school-aged,Hybrid,Yes,No,Tantrum,Severe,Unclear / mixed,Mixed
+1018,6,6-8,Female,Urdu,ASD + Anxiety,None,Vocal,Phrases,Lower support,Developing,Mainstream,School-based,Yes,Yes,Elopement,Moderate,Transitions,Screens / Videos
+1019,12,12-14,Male,English,ASD,Active medication,Vocal,Sentences,Lower support,Developing,Mainstream,Home,No,No,Tantrum; Elopement,Moderate,Demands; Transitions,Toys / Tangibles
+1020,5,3-5,Male,Urdu,ASD + Global Developmental Delay,None,AAC,Single words,Moderate support,Emerging,Homeschooled / Other,Clinic,No,No,Tantrum; Aggression,Severe,Denied access; Transitions,Mixed
+1021,11,9-11,Male,French,ASD,None,Vocal,Phrases,Moderate support,Developing,Specialized classroom,School-based,No,No,Tantrum; Aggression,Severe,Demands,Toys / Tangibles
+1022,11,9-11,Male,English,ASD + Anxiety,Active medication,Vocal,Sentences,Moderate support,Emerging,Mainstream,Clinic,Yes,Yes,Aggression; Self-Injury,Moderate,Denied access,Breaks / Escape
+1023,4,3-5,Male,Other,ASD + Anxiety,None,Vocal,Sentences,Moderate support,More independent,Not school-aged,Hybrid,No,Yes,Property Destruction,Moderate,Demands,Social praise
+1024,11,9-11,Male,English,ASD,None,Gestural / Emerging,Phrases,High support,More independent,Specialized classroom,Clinic,No,Yes,Aggression; Self-Injury,Moderate,Demands; Transitions,Edibles
+1025,12,12-14,Female,English,ASD,None,PECS,Single words,Lower support,Developing,Not school-aged,Clinic,Yes,No,Tantrum; Elopement,Moderate,Denied access; Transitions,Edibles
+1026,11,9-11,Female,Arabic,ASD + ADHD,Active medication,Vocal,Single words,High support,Developing,Specialized classroom,School-based,No,Yes,Tantrum; Aggression,Mild,Transitions,Breaks / Escape
+1027,12,12-14,Other / Prefer not to say,French,ASD,None,Vocal,Sentences,Moderate support,Emerging,Not school-aged,Clinic,No,No,Tantrum; Elopement,Moderate,Sensory overload,Toys / Tangibles
+1028,5,3-5,Male,French,ASD + ADHD,Active medication,Gestural / Emerging,Single words,Moderate support,Developing,Mainstream,Clinic,Yes,No,Aggression,Moderate,Demands; Transitions,Sensory activities
+1029,14,12-14,Male,English,ASD,None,Vocal,Single words,Moderate support,Developing,Mainstream,Home,No,No,Tantrum; Aggression,Moderate,Denied access,Mixed
+1030,7,6-8,Male,French,ASD,None,PECS,Phrases,Lower support,Developing,Specialized classroom,Hybrid,Yes,No,Elopement,Mild,Demands,Mixed
+1031,9,9-11,Male,English,ASD,None,Vocal,Sentences,High support,More independent,Specialized classroom,Clinic,Yes,No,Tantrum,Moderate,Unclear / mixed,Mixed
+1032,8,6-8,Male,Urdu,ASD + ADHD,None,AAC,Single words,High support,Developing,Not school-aged,Clinic,No,No,Property Destruction,Severe,Unclear / mixed,Toys / Tangibles
+1033,12,12-14,Male,English,ASD,Active medication,Vocal,Phrases,High support,Emerging,Specialized classroom,Clinic,Yes,No,Elopement,Moderate,Attention removal,Edibles
+1034,6,6-8,Female,Urdu,ASD + ADHD,Active medication,PECS,Single words,Moderate support,Developing,Mainstream,Hybrid,No,No,Tantrum; Elopement,Moderate,Unclear / mixed,Social praise
+1035,5,3-5,Female,English,ASD,None,Vocal,Phrases,Lower support,Developing,Not school-aged,Clinic,Yes,Yes,Aggression; Self-Injury,Moderate,Denied access,Social praise
+1036,9,9-11,Male,Urdu,ASD + ADHD,Medication under review,AAC,Phrases,Moderate support,More independent,Specialized classroom,Hybrid,No,No,Tantrum,Severe,Attention removal,Social praise
+1037,3,3-5,Male,Other,ASD + Other,None,PECS,Phrases,High support,Emerging,Not school-aged,School-based,No,No,Elopement,Severe,Denied access,Mixed
+1038,10,9-11,Male,Punjabi,ASD + Other,Active medication,Vocal,Phrases,High support,Emerging,Specialized classroom,School-based,No,No,Tantrum; Aggression,Severe,Demands,Toys / Tangibles
+1039,4,3-5,Male,Mandarin,ASD,None,AAC,Single words,Moderate support,More independent,Specialized classroom,Clinic,No,No,Tantrum; Elopement,Moderate,Sensory overload,Screens / Videos
+1040,4,3-5,Female,English,ASD,None,AAC,Phrases,Lower support,Emerging,Mainstream,Clinic,No,No,Tantrum; Aggression,Moderate,Denied access,Mixed
+1041,6,6-8,Male,English,ASD,None,Vocal,Single words,Moderate support,Developing,Mainstream,Home,No,No,Property Destruction,Moderate,Unclear / mixed,Toys / Tangibles
+1042,9,9-11,Female,English,ASD + Anxiety,None,AAC,Single words,High support,Emerging,Not school-aged,Hybrid,Yes,No,Tantrum; Elopement,Severe,Attention removal,Social praise
+1043,6,6-8,Other / Prefer not to say,Urdu,ASD + Anxiety,Active medication,PECS,Single words,Moderate support,Emerging,Specialized classroom,Hybrid,No,No,Tantrum,Severe,Demands,Edibles
+1044,3,3-5,Male,English,ASD,None,Vocal,Single words,Moderate support,Emerging,Specialized classroom,Clinic,Yes,No,Elopement,Mild,Demands,Mixed
+1045,5,3-5,Male,English,ASD,None,Vocal,Sentences,Lower support,Emerging,Mainstream,Clinic,No,No,Aggression,Moderate,Unclear / mixed,Edibles
+1046,8,6-8,Male,English,ASD,None,Gestural / Emerging,Single words,High support,Emerging,Not school-aged,School-based,Yes,No,Tantrum; Aggression,Severe,Demands,Mixed
+1047,8,6-8,Male,English,ASD + Anxiety,Active medication,Vocal,Sentences,Moderate support,Developing,Homeschooled / Other,Clinic,No,No,Tantrum; Elopement,Moderate,Transitions,Screens / Videos
+1048,10,9-11,Male,English,ASD,None,Vocal,Sentences,Moderate support,Developing,Mainstream,Hybrid,No,Yes,Tantrum,Moderate,Transitions,Social praise
+1049,6,6-8,Other / Prefer not to say,English,ASD,Medication under review,AAC,Single words,Lower support,More independent,Specialized classroom,School-based,Yes,Yes,Tantrum; Aggression,Moderate,Demands; Transitions,Mixed
+1050,5,3-5,Male,English,ASD + Global Developmental Delay,None,AAC,Phrases,Moderate support,Developing,Specialized classroom,Home,No,No,Elopement,Moderate,Demands,Mixed
+1051,3,3-5,Male,English,ASD,Active medication,Vocal,Phrases,High support,More independent,Not school-aged,Clinic,No,No,Aggression,Moderate,Demands; Transitions,Mixed
+1052,10,9-11,Male,Arabic,ASD + Anxiety,Active medication,Vocal,Single words,Lower support,More independent,Specialized classroom,Clinic,Yes,No,Tantrum,Severe,Denied access,Breaks / Escape
+1053,7,6-8,Female,English,ASD,None,AAC,Phrases,Moderate support,More independent,Mainstream,Clinic,Yes,No,Tantrum,Mild,Demands; Transitions,Screens / Videos
+1054,3,3-5,Male,English,ASD + Anxiety,Active medication,Vocal,Single words,High support,Developing,Mainstream,Clinic,Yes,No,Aggression; Self-Injury,Moderate,Attention removal,Toys / Tangibles
+1055,14,12-14,Male,English,ASD + Anxiety,Active medication,Gestural / Emerging,Sentences,Lower support,More independent,Not school-aged,Clinic,Yes,No,Tantrum,Severe,Demands; Transitions,Social praise
+1056,9,9-11,Male,English,ASD + Global Developmental Delay,None,PECS,Single words,Moderate support,Developing,Specialized classroom,School-based,Yes,No,Tantrum,Severe,Demands,Toys / Tangibles
+1057,4,3-5,Female,English,ASD,None,Vocal,Sentences,Lower support,More independent,Mainstream,Home,Yes,Yes,Tantrum,Severe,Unclear / mixed,Breaks / Escape
+1058,6,6-8,Male,English,ASD,None,Vocal,Single words,Lower support,Developing,Homeschooled / Other,Clinic,No,Yes,Aggression,Mild,Demands,Mixed
+1059,9,9-11,Male,French,ASD,None,Vocal,Single words,Lower support,Developing,Specialized classroom,Home,Yes,No,Self-Injury,Mild,Denied access,Mixed
